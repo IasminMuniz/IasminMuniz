@@ -21,8 +21,3 @@
 * **Processos & Engenharia:** ETL | KPIs | Modelagem de Dados | Automação
 * **Ciência de Dados:** Análise de Dados | Machine Learning *(em desenvolvimento)*
 
----
-
-### 🌐 Vamos nos conectar?
-- 💼 www.linkedin.com/in/iasmin-muniz
-- 📧 E-mail: iasminlhmuniz@gmail.com
