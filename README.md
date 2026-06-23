@@ -10,7 +10,6 @@
 
 ### 🎓 Formação & Estudos
 - 🎓 Graduada em **Análise e Desenvolvimento de Sistemas**.
-- 🚀 Atualmente aprofundando conhecimentos em **Machine Learning** e **Inteligência Artificial**, expandindo minha atuação para modelos preditivos, automação analítica e soluções *data-driven* cada vez mais inteligentes e escaláveis.
 
 ---
 
